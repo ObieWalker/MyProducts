@@ -1,0 +1,45 @@
+﻿@{
+    ViewData["Title"] = "Contact";
+}
+<h2>@ViewData["Title"]</h2>
+<h3>@ViewData["Message"]</h3>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title> Grey SL.</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="Clayout.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <form id="contact" action="" method="post">
+            <h3>Contact </h3>
+            <h4>Contact us for more enquries</h4>
+            <fieldset>
+                <input placeholder="Your name" type="text" name="name">
+            </fieldset>
+            <fieldset>
+                <input placeholder="Your Email Address" type="email" tabindex="2" required>
+            </fieldset>
+            <fieldset>
+                <input placeholder="Your Phone Number (optional)" type="tel" tabindex="3">
+            </fieldset>
+            <fieldset>
+                <input placeholder="Your Web Site (optional)" type="url" tabindex="4">
+            </fieldset>
+            <fieldset>
+<textarea placeholder="Type your message here...." tabindex="5" required></textarea>
+            </fieldset>
+            <fieldset>
+                <button name="submit" type="submit" id="contact-submit" data-submit="...Sending">Submit</button>
+            </fieldset>
+        </form>
+    </div>
+
+</body>
+</html>

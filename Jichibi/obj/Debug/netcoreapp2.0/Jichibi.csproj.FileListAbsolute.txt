@@ -1,0 +1,12 @@
+c:\users\hp\source\repos\Jichibi\Jichibi\bin\Debug\netcoreapp2.0\Jichibi.deps.json
+c:\users\hp\source\repos\Jichibi\Jichibi\bin\Debug\netcoreapp2.0\Jichibi.runtimeconfig.json
+c:\users\hp\source\repos\Jichibi\Jichibi\bin\Debug\netcoreapp2.0\Jichibi.runtimeconfig.dev.json
+c:\users\hp\source\repos\Jichibi\Jichibi\bin\Debug\netcoreapp2.0\Jichibi.dll
+c:\users\hp\source\repos\Jichibi\Jichibi\bin\Debug\netcoreapp2.0\Jichibi.pdb
+c:\users\hp\source\repos\Jichibi\Jichibi\obj\Debug\netcoreapp2.0\Jichibi.csprojResolveAssemblyReference.cache
+c:\users\hp\source\repos\Jichibi\Jichibi\obj\Debug\netcoreapp2.0\Jichibi.csproj.CoreCompileInputs.cache
+c:\users\hp\source\repos\Jichibi\Jichibi\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+c:\users\hp\source\repos\Jichibi\Jichibi\obj\Debug\netcoreapp2.0\Jichibi.AssemblyInfoInputs.cache
+c:\users\hp\source\repos\Jichibi\Jichibi\obj\Debug\netcoreapp2.0\Jichibi.AssemblyInfo.cs
+c:\users\hp\source\repos\Jichibi\Jichibi\obj\Debug\netcoreapp2.0\Jichibi.dll
+c:\users\hp\source\repos\Jichibi\Jichibi\obj\Debug\netcoreapp2.0\Jichibi.pdb
